@@ -1,0 +1,53 @@
+﻿Abriendo los repositorios:
+C:\Users\HP PAVILION 15\Source\Repos\Fonseca1998\Moises_Fonseca
+Enviando cambios de Prueba_Moises
+POST git-upload-pack (287 bytes)
+Remote: Enumerating objects: 4, done.        
+Remote: Counting objects:  25% (1/4)        
+Remote: Counting objects:  50% (2/4)        
+Remote: Counting objects:  75% (3/4)        
+Remote: Counting objects: 100% (4/4)        
+Remote: Counting objects: 100% (4/4), done.        
+Remote: Compressing objects:  33% (1/3)        
+Remote: Compressing objects:  66% (2/3)        
+Remote: Compressing objects: 100% (3/3)        
+Remote: Compressing objects: 100% (3/3), done.        
+Remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        
+From https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> origin/Prueba_Moises
+ * [new branch]      Prueba        -> origin/Prueba
+   3f540f5..e5821d6  master        -> origin/master
+Pushing to https://github.com/Fonseca1998/Moises_Fonseca
+To https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> Prueba_Moises
+updating local tracking ref 'refs/remotes/origin/Prueba_Moises'
+Everything up-to-date
+From https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> origin/Prueba_Moises
+ = [up to date]      Prueba        -> origin/Prueba
+ = [up to date]      master        -> origin/master
+Pushing to https://github.com/Fonseca1998/Moises_Fonseca
+To https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> Prueba_Moises
+updating local tracking ref 'refs/remotes/origin/Prueba_Moises'
+Everything up-to-date
+From https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> origin/Prueba_Moises
+ = [up to date]      Prueba        -> origin/Prueba
+ = [up to date]      master        -> origin/master
+Se produjo un error al insertar en el repositorio remoto: Git failed with a fatal error.
+HttpRequestException encountered.
+   Error al enviar la solicitud.
+cannot spawn /c/program files (x86)/microsoft visual studio/2019/professional/common7/ide/commonextensions/microsoft/teamfoundation/team explorer/Git/mingw32/libexec/git-core/git-askpass.exe: No error
+could not read Username for 'https://github.com': terminal prompts disabled
+Pushing to https://github.com/Fonseca1998/Moises_Fonseca
+
+From https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> origin/Prueba_Moises
+ = [up to date]      Prueba        -> origin/Prueba
+ = [up to date]      master        -> origin/master
+Pushing to https://github.com/Fonseca1998/Moises_Fonseca
+To https://github.com/Fonseca1998/Moises_Fonseca
+ = [up to date]      Prueba_Moises -> Prueba_Moises
+updating local tracking ref 'refs/remotes/origin/Prueba_Moises'
+Everything up-to-date
